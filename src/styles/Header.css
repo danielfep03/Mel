@@ -1,0 +1,47 @@
+.Header {
+  background-color: var(--white);
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.wrapper__header {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 18px;
+  padding-bottom: 17px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.logo {
+  width: 45px;
+  height: 45px;
+}
+
+.right__header {
+  display: flex;
+}
+
+.right__header > input {
+  border-radius: 15px;
+  background-color: var(--gray);
+  border: none;
+  height: 45px;
+  width: 388px;
+  padding-left: 17px;
+}
+
+.network {
+  display: flex;
+  gap: 15px;
+  margin-left: 30px;
+}
+
+.network img {
+  width: 30px;
+  height: 30px;
+  margin-top: 6px;
+}

@@ -1,0 +1,46 @@
+.Content {
+  background: rgba(255, 255, 255, 0.25);
+  /* background-color: aqua; */
+  position: absolute;
+  top: 130px;
+  left: 0;
+  right: 0;
+  border-radius: 30px;
+  margin: auto;
+  width: 85%;
+  max-width: 1240px;
+  padding: 41px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Content > h1 {
+  margin-bottom: 30px;
+  font-weight: 500;
+  font-size: 40px;
+}
+
+.Content > h2 {
+  margin-bottom: 60px;
+  font-weight: 200;
+  font-size: 22px;
+}
+
+.created__by {
+  display: flex;
+  margin: auto;
+}
+
+.created__by > span {
+  margin-top: 5px;
+}
+
+.button {
+  background-color: var(--white);
+  border-radius: 15px;
+  padding: 7px 17px;
+  margin-left: 20px;
+  color: var(--blue);
+  text-decoration: none;
+  font-weight: 500;
+}
