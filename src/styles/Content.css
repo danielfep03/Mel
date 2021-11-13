@@ -12,6 +12,7 @@
   padding: 41px;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .Content > h1 {
@@ -29,6 +30,7 @@
 .created__by {
   display: flex;
   margin: auto;
+  margin-bottom: 60px;
 }
 
 .created__by > span {

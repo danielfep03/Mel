@@ -1,0 +1,7 @@
+.Categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 938px;
+  gap: 20px;
+}

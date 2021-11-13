@@ -1,0 +1,14 @@
+.category {
+  background-color: var(--black);
+  color: #FFF;
+  padding: 6px 25px 6px 15px;
+  border-radius: 12px;
+  box-sizing: content-box;
+  display: inline-block;
+  text-align: center;
+  border: none;
+}
+
+.selected {
+  background-color: var(--blue) !important;
+}

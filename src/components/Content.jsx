@@ -1,4 +1,5 @@
 import React from 'react'
+import Categories from './Categories.jsx'
 import '../styles/Content.css'
 
 function Content() {
@@ -12,7 +13,7 @@ function Content() {
           @melvonpato
         </a>
       </div>
-     
+      <Categories />
     </div>
   )
 }
