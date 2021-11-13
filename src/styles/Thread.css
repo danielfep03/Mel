@@ -1,0 +1,39 @@
+.thread {
+  background-color: var(--white);
+  width: 501px;
+  border-radius: 30px;
+  overflow: hidden;
+}
+
+.thread__wrapper {
+  padding: 0 30px 40px 30px;
+}
+
+.thread__header {
+  display: flex;
+  justify-content: space-between;
+  margin-top:30px;
+}
+
+.thread__header > div {
+  display: flex;
+}
+
+.thread__profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 10px;
+}
+
+
+.thread__header > img {
+  width: 57px;
+  height: 32px;
+}
+
+.thread__text {
+  margin-top: 20px;
+  text-align: justify;
+}

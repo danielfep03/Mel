@@ -1,5 +1,6 @@
 import React from 'react'
 import Categories from './Categories.jsx'
+import Threads from './Threads.jsx'
 import '../styles/Content.css'
 
 function Content() {
@@ -14,6 +15,7 @@ function Content() {
         </a>
       </div>
       <Categories />
+      <Threads />
     </div>
   )
 }
