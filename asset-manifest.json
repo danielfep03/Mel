@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/danielfep03/Mel/static/css/main.c86780a5.chunk.css",
-    "main.js": "/danielfep03/Mel/static/js/main.6fb98f68.chunk.js",
-    "main.js.map": "/danielfep03/Mel/static/js/main.6fb98f68.chunk.js.map",
-    "runtime-main.js": "/danielfep03/Mel/static/js/runtime-main.a5f67017.js",
-    "runtime-main.js.map": "/danielfep03/Mel/static/js/runtime-main.a5f67017.js.map",
-    "static/js/2.ab77b1ee.chunk.js": "/danielfep03/Mel/static/js/2.ab77b1ee.chunk.js",
-    "static/js/2.ab77b1ee.chunk.js.map": "/danielfep03/Mel/static/js/2.ab77b1ee.chunk.js.map",
-    "index.html": "/danielfep03/Mel/index.html",
-    "static/css/main.c86780a5.chunk.css.map": "/danielfep03/Mel/static/css/main.c86780a5.chunk.css.map",
-    "static/js/2.ab77b1ee.chunk.js.LICENSE.txt": "/danielfep03/Mel/static/js/2.ab77b1ee.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/danielfep03/Mel/static/media/background.1c3ce231.jpg",
-    "static/media/dribbble.7f110ce1.svg": "/danielfep03/Mel/static/media/dribbble.7f110ce1.svg",
-    "static/media/instagram.9df95b1a.svg": "/danielfep03/Mel/static/media/instagram.9df95b1a.svg",
-    "static/media/medium.273d4136.svg": "/danielfep03/Mel/static/media/medium.273d4136.svg",
-    "static/media/twitter.9cc59746.svg": "/danielfep03/Mel/static/media/twitter.9cc59746.svg"
+    "main.css": "/Mel/static/css/main.2a49b259.chunk.css",
+    "main.js": "/Mel/static/js/main.6fb98f68.chunk.js",
+    "main.js.map": "/Mel/static/js/main.6fb98f68.chunk.js.map",
+    "runtime-main.js": "/Mel/static/js/runtime-main.393ee068.js",
+    "runtime-main.js.map": "/Mel/static/js/runtime-main.393ee068.js.map",
+    "static/js/2.ab77b1ee.chunk.js": "/Mel/static/js/2.ab77b1ee.chunk.js",
+    "static/js/2.ab77b1ee.chunk.js.map": "/Mel/static/js/2.ab77b1ee.chunk.js.map",
+    "index.html": "/Mel/index.html",
+    "static/css/main.2a49b259.chunk.css.map": "/Mel/static/css/main.2a49b259.chunk.css.map",
+    "static/js/2.ab77b1ee.chunk.js.LICENSE.txt": "/Mel/static/js/2.ab77b1ee.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Mel/static/media/background.1c3ce231.jpg",
+    "static/media/dribbble.7f110ce1.svg": "/Mel/static/media/dribbble.7f110ce1.svg",
+    "static/media/instagram.9df95b1a.svg": "/Mel/static/media/instagram.9df95b1a.svg",
+    "static/media/medium.273d4136.svg": "/Mel/static/media/medium.273d4136.svg",
+    "static/media/twitter.9cc59746.svg": "/Mel/static/media/twitter.9cc59746.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5f67017.js",
+    "static/js/runtime-main.393ee068.js",
     "static/js/2.ab77b1ee.chunk.js",
-    "static/css/main.c86780a5.chunk.css",
+    "static/css/main.2a49b259.chunk.css",
     "static/js/main.6fb98f68.chunk.js"
   ]
 }
