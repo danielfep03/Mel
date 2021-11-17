@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mel/static/css/main.2a49b259.chunk.css",
-    "main.js": "/Mel/static/js/main.6fb98f68.chunk.js",
-    "main.js.map": "/Mel/static/js/main.6fb98f68.chunk.js.map",
+    "main.css": "/Mel/static/css/main.f60b63d5.chunk.css",
+    "main.js": "/Mel/static/js/main.95e094b2.chunk.js",
+    "main.js.map": "/Mel/static/js/main.95e094b2.chunk.js.map",
     "runtime-main.js": "/Mel/static/js/runtime-main.393ee068.js",
     "runtime-main.js.map": "/Mel/static/js/runtime-main.393ee068.js.map",
-    "static/js/2.ab77b1ee.chunk.js": "/Mel/static/js/2.ab77b1ee.chunk.js",
-    "static/js/2.ab77b1ee.chunk.js.map": "/Mel/static/js/2.ab77b1ee.chunk.js.map",
+    "static/js/2.10ce25b2.chunk.js": "/Mel/static/js/2.10ce25b2.chunk.js",
+    "static/js/2.10ce25b2.chunk.js.map": "/Mel/static/js/2.10ce25b2.chunk.js.map",
     "index.html": "/Mel/index.html",
-    "static/css/main.2a49b259.chunk.css.map": "/Mel/static/css/main.2a49b259.chunk.css.map",
-    "static/js/2.ab77b1ee.chunk.js.LICENSE.txt": "/Mel/static/js/2.ab77b1ee.chunk.js.LICENSE.txt",
+    "static/css/main.f60b63d5.chunk.css.map": "/Mel/static/css/main.f60b63d5.chunk.css.map",
+    "static/js/2.10ce25b2.chunk.js.LICENSE.txt": "/Mel/static/js/2.10ce25b2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Mel/static/media/background.1c3ce231.jpg",
     "static/media/dribbble.7f110ce1.svg": "/Mel/static/media/dribbble.7f110ce1.svg",
     "static/media/instagram.9df95b1a.svg": "/Mel/static/media/instagram.9df95b1a.svg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.393ee068.js",
-    "static/js/2.ab77b1ee.chunk.js",
-    "static/css/main.2a49b259.chunk.css",
-    "static/js/main.6fb98f68.chunk.js"
+    "static/js/2.10ce25b2.chunk.js",
+    "static/css/main.f60b63d5.chunk.css",
+    "static/js/main.95e094b2.chunk.js"
   ]
 }
