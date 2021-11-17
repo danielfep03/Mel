@@ -43,6 +43,10 @@
   font-weight: 800;
 }
 
+.thread__profile span:last-of-type {
+  color: var(--gray-text);
+}
+
 .thread__header > img {
   width: 57px;
   height: 32px;
