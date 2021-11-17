@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Mel/static/css/main.f60b63d5.chunk.css",
-    "main.js": "/Mel/static/js/main.95e094b2.chunk.js",
-    "main.js.map": "/Mel/static/js/main.95e094b2.chunk.js.map",
+    "main.css": "/Mel/static/css/main.db7abf27.chunk.css",
+    "main.js": "/Mel/static/js/main.0d532bf9.chunk.js",
+    "main.js.map": "/Mel/static/js/main.0d532bf9.chunk.js.map",
     "runtime-main.js": "/Mel/static/js/runtime-main.393ee068.js",
     "runtime-main.js.map": "/Mel/static/js/runtime-main.393ee068.js.map",
     "static/js/2.10ce25b2.chunk.js": "/Mel/static/js/2.10ce25b2.chunk.js",
     "static/js/2.10ce25b2.chunk.js.map": "/Mel/static/js/2.10ce25b2.chunk.js.map",
     "index.html": "/Mel/index.html",
-    "static/css/main.f60b63d5.chunk.css.map": "/Mel/static/css/main.f60b63d5.chunk.css.map",
+    "static/css/main.db7abf27.chunk.css.map": "/Mel/static/css/main.db7abf27.chunk.css.map",
     "static/js/2.10ce25b2.chunk.js.LICENSE.txt": "/Mel/static/js/2.10ce25b2.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Mel/static/media/background.1c3ce231.jpg",
+    "static/media/index.css": "/Mel/static/media/WorkSans-Regular.1cafe0d5.ttf",
     "static/media/dribbble.7f110ce1.svg": "/Mel/static/media/dribbble.7f110ce1.svg",
     "static/media/instagram.9df95b1a.svg": "/Mel/static/media/instagram.9df95b1a.svg",
+    "static/media/logo.81861384.svg": "/Mel/static/media/logo.81861384.svg",
     "static/media/medium.273d4136.svg": "/Mel/static/media/medium.273d4136.svg",
     "static/media/twitter.9cc59746.svg": "/Mel/static/media/twitter.9cc59746.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.393ee068.js",
     "static/js/2.10ce25b2.chunk.js",
-    "static/css/main.f60b63d5.chunk.css",
-    "static/js/main.95e094b2.chunk.js"
+    "static/css/main.db7abf27.chunk.css",
+    "static/js/main.0d532bf9.chunk.js"
   ]
 }
