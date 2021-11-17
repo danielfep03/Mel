@@ -6,7 +6,7 @@ import '../styles/Thread.css'
 
 function Thread() {
   return (
-    <div className="thread">
+    <a href="https://twitter.com/MelVonPato/status/1414534335928094725" target="_blank" rel="noreferrer" className="thread">
       <div className="thread__wrapper">
         <div className="thread__header">
           <div>
@@ -22,7 +22,7 @@ function Thread() {
       ¿Te interesa insertarte en el mercado laboral IT? Bienvenido/a!Rainbow Te dejo este hilo con recursos gratis, info y consejos sobre Diseño UX/UI y Desarrollo Web (y más!)Down pointing backhand index 
         </div>
       </div>
-    </div>
+    </a>
   )
 }
 
