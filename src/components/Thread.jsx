@@ -1,19 +1,19 @@
 import React from 'react'
 
-import logo from '../images/logo.jpg'
+import logo from '../images/logo.svg'
 import twitter from '../images/twitter-color.png'
 import '../styles/Thread.css'
 
 function Thread({content}) {
   console.log(content.text)
   return (
-    <div className="thread">
-      <a href={`https://twitter.com/MelVonPato/status/${content.id}`} target="_blank" rel="noreferrer" className="thread__wrapper">
+    <a className="thread" href={`https://twitter.com/MelVonPato/status/${content.id}`} target="_blank" rel="noreferrer">
+      <div className="thread__wrapper">
         <div className="thread__header">
           <div>
             <img src={logo} alt="logo" />
             <div className="thread__profile">
-              <span><b>Mel</b></span>
+              <span>Mel</span>
               <span>@MelVonPato</span>
             </div>
           </div>
@@ -25,8 +25,8 @@ function Thread({content}) {
         <div className="created_at">
           {content.created_at}
         </div>
-      </a>
-    </div>
+      </div>
+    </a>
   )
 }
 

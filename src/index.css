@@ -3,11 +3,32 @@
 --black: #090A0AE5;
 --gray: #F9F9F9;
 --blue: #00A2F5;
+--hover: rgba(0, 0, 0, 0.03);
+--gray-text: #5A6773;
+}
+@font-face {
+    font-family: 'WorkSans';
+    font-weight: 400;
+    src: local('WorkSans'), url(./fonts/WorkSans-Regular.ttf) format('opentype');
+}
+
+@font-face {
+    font-family: 'WorkSans';
+    font-weight: 600;
+    src: local('WorkSans'), url(./fonts/WorkSans-Medium.ttf) format('opentype');
+}
+
+@font-face {
+    font-family: 'WorkSans';
+    font-weight: 800;
+    src: local('WorkSans'), url(./fonts/WorkSans-Bold.ttf) format('opentype');
 }
 
 * {
   margin: 0;
   box-sizing: border-box;
+  font-family: WorkSans;
+  font-weight: 400;
 }
 
 body {
@@ -17,9 +38,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(./images/background.jpg);
+  background-image: url(./images/Background.svg);
   background-size: cover;
-  /* background-repeat: no-repeat; */
+  background-repeat: no-repeat;
 }
 
 code {

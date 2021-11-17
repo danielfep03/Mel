@@ -18,13 +18,13 @@
 
 .Content > h1 {
   margin-bottom: 30px;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 40px;
 }
 
 .Content > h2 {
   margin-bottom: 60px;
-  font-weight: 200;
+  font-weight: 400;
   font-size: 22px;
 }
 
@@ -36,6 +36,12 @@
 
 .created__by > span {
   margin-top: 5px;
+}
+
+.created__by > a{
+  font-weight: 600;
+  height: 31px;
+  text-align: center;
 }
 
 .button {

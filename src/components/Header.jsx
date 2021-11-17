@@ -4,7 +4,7 @@ import dribbble from '../images/dribbble.svg'
 import instagram from '../images/instagram.svg'
 import medium from '../images/medium.svg'
 import twitter from '../images/twitter.svg'
-import logo from '../images/logo.jpg'
+import logo from '../images/logo.svg'
 
 function Header() {
   return (
@@ -17,7 +17,7 @@ function Header() {
             <a href="https://baudonmel.medium.com" target="_blank" rel="noopener noreferrer">
               <img src={medium} alt="" />
             </a>
-            <a href="">
+            <a href="https://dribbble.com/melbaudon" target="_blank" rel="noopener noreferrer">
               <img src={dribbble} alt="" />
             </a>
             <a href="https://www.instagram.com/melbaudon/" target="_blank" rel="noopener noreferrer">
