@@ -99,7 +99,7 @@ export const programacion = [
   {
     'created_at': '2021-10-11T21:24:05.000Z',
     'id': '1447674387793158144',
-    'text': 'Repositorios de Github para programadores 👩‍💻 👇\n\n⚡️ Recursos de UX/UI para desarrolladores: https://t.co/UGdIcN9WVC\n\n⚡️ Creadores de contenido de programación y diseño: https://t.co/uID3NkF84J \n\n⚡️ Roadmap para convertirte en Desarrollador Web 2021:\nhttps://t.co/PkWBn1PVPJ \n+'
+    'text': 'Repositorios de Github para programadores 👩‍💻 👇 \n\n⚡️ Recursos de UX/UI para desarrolladores: https://t.co/UGdIcN9WVC\n\n⚡️ Creadores de contenido de programación y diseño: https://t.co/uID3NkF84J \n\n⚡️ Roadmap para convertirte en Desarrollador Web 2021:\nhttps://t.co/PkWBn1PVPJ \n+'
   },
   {
     'created_at': '2021-10-04T13:38:57.000Z',
@@ -182,7 +182,7 @@ export const programacion = [
     'text': '¿DISEÑO WEB y DESARROLLO WEB son lo mismo? Hablemos sobre estos dos grandes conceptos 🧵+'
   },
 ]
-export const marketing_digitial= [
+export const marketing_digital= [
   {
     'created_at': '2021-03-21T20:04:16.000Z',
     'id': '1373727179314454534',

@@ -4,10 +4,11 @@ import logo from '../images/logo.jpg'
 import twitter from '../images/twitter-color.png'
 import '../styles/Thread.css'
 
-function Thread() {
+function Thread({content}) {
+  console.log(content.text)
   return (
-    <a href="https://twitter.com/MelVonPato/status/1414534335928094725" target="_blank" rel="noreferrer" className="thread">
-      <div className="thread__wrapper">
+    <div className="thread">
+      <a href={`https://twitter.com/MelVonPato/status/${content.id}`} target="_blank" rel="noreferrer" className="thread__wrapper">
         <div className="thread__header">
           <div>
             <img src={logo} alt="logo" />
@@ -18,11 +19,14 @@ function Thread() {
           </div>
           <img src={twitter} alt="" />
         </div>
-        <div className="thread__text">
-      ¿Te interesa insertarte en el mercado laboral IT? Bienvenido/a!Rainbow Te dejo este hilo con recursos gratis, info y consejos sobre Diseño UX/UI y Desarrollo Web (y más!)Down pointing backhand index 
+        <p className="thread__text">
+          {content.text}
+        </p>
+        <div className="created_at">
+          {content.created_at}
         </div>
-      </div>
-    </a>
+      </a>
+    </div>
   )
 }
 

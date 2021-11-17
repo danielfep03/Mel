@@ -4,7 +4,7 @@ import {v4 as uuid} from 'uuid'
 
 import '../styles/Categories.css'
 
-function Categories() {
+function Categories({filter}) {
   const categories = [{name: '🦄 Diseño', selected: false},
     {name: '💻 Programación', selected: false},
     {name: '🛍️ Marketing Digital', selected: false},
@@ -34,6 +34,7 @@ function Categories() {
     setSelected([
       ...newState
     ])
+    filter(name)
   }
 
   return (

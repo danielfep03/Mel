@@ -1,3 +1,8 @@
 .Threads {
   margin-top: 80px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(300px, 450px) );
+  gap: 1em;
+  justify-content: center;
 }

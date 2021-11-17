@@ -1,18 +1,23 @@
 .thread {
   background-color: var(--white);
-  width: 501px;
   border-radius: 30px;
   overflow: hidden;
+  padding: 20px 25px;
+  border: 1px solid #F0F0F0;
 }
 
 .thread__wrapper {
-  padding: 0 30px 40px 30px;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
 }
 
 .thread__header {
   display: flex;
   justify-content: space-between;
-  margin-top:30px;
+  margin-bottom: 15px;
 }
 
 .thread__header > div {
@@ -34,6 +39,11 @@
 }
 
 .thread__text {
-  margin-top: 20px;
+  text-align: left;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.created_at {
   text-align: justify;
 }

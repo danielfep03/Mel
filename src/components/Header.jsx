@@ -14,7 +14,7 @@ function Header() {
         <div className="right__header">
           <input type="text" placeholder="Buscar" />
           <div className="network">
-            <a href="">
+            <a href="https://baudonmel.medium.com" target="_blank" rel="noopener noreferrer">
               <img src={medium} alt="" />
             </a>
             <a href="">
