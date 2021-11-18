@@ -1,13 +1,15 @@
-import React from 'react'
+import React, {useContext} from 'react'
+import AppContext from '../AppContext.js'
 import {v4 as uuid} from 'uuid'
 
 import Thread from './Thread.jsx'
 import '../styles/Threads.css'
 
-function Threads({currentCategory}) {
+function Threads() {
+  const {state} = useContext(AppContext)
   return (
     <div className="Threads">
-      {currentCategory.map(item => (<Thread content={item} key={uuid()}/>))}
+      {state.map(item => (<Thread content={item} key={uuid()}/>))}
     </div>
   )
 }

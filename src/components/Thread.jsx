@@ -5,7 +5,6 @@ import twitter from '../images/twitter-color.png'
 import '../styles/Thread.css'
 
 function Thread({content}) {
-  console.log(content.text)
   return (
     <a className="thread" href={`https://twitter.com/MelVonPato/status/${content.id}`} target="_blank" rel="noreferrer">
       <div className="thread__wrapper">
