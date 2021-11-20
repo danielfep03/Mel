@@ -43,6 +43,13 @@ body {
   background-repeat: no-repeat;
 }
 
+@media only screen and (max-width: 1000px) {
+  body {
+    background-image: url(./images/background-responsive.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  }
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
