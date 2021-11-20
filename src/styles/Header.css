@@ -82,21 +82,17 @@
     display: flex;
   }
 
-  .wrapper__header:focus-within img {
-    display: none;
-  }
-
-  .wrapper__header:focus-within .NavMobile {
-    display: none;
-  }
-
   .search-input {
     width: 70vw;
   }
 
   .search-input:focus {
-    width: 90vw;
+    position: absolute;
+    width: 95vw;
     transition: width 0.8s ease;
+    margin: auto;
+    left: 0;
+    right: 0;
   }
 
 }
