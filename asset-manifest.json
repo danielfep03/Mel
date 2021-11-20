@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mel/static/css/main.eff9a6c0.chunk.css",
+    "main.css": "/Mel/static/css/main.3881f0db.chunk.css",
     "main.js": "/Mel/static/js/main.e52d48df.chunk.js",
     "main.js.map": "/Mel/static/js/main.e52d48df.chunk.js.map",
     "runtime-main.js": "/Mel/static/js/runtime-main.393ee068.js",
@@ -8,7 +8,7 @@
     "static/js/2.90d5b3ba.chunk.js": "/Mel/static/js/2.90d5b3ba.chunk.js",
     "static/js/2.90d5b3ba.chunk.js.map": "/Mel/static/js/2.90d5b3ba.chunk.js.map",
     "index.html": "/Mel/index.html",
-    "static/css/main.eff9a6c0.chunk.css.map": "/Mel/static/css/main.eff9a6c0.chunk.css.map",
+    "static/css/main.3881f0db.chunk.css.map": "/Mel/static/css/main.3881f0db.chunk.css.map",
     "static/js/2.90d5b3ba.chunk.js.LICENSE.txt": "/Mel/static/js/2.90d5b3ba.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Mel/static/media/background-responsive.8d22c7b4.svg",
     "static/media/Frame.fb9adb8a.svg": "/Mel/static/media/Frame.fb9adb8a.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.393ee068.js",
     "static/js/2.90d5b3ba.chunk.js",
-    "static/css/main.eff9a6c0.chunk.css",
+    "static/css/main.3881f0db.chunk.css",
     "static/js/main.e52d48df.chunk.js"
   ]
 }
