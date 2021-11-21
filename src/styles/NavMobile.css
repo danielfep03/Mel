@@ -1,50 +1,50 @@
 .NavButton {
   background: none;
-  border: none;
-  padding: 0;
-  cursor: pointer;
+  border    : none;
+  padding   : 0;
+  cursor    : pointer;
 }
 
-.NavButton > img {
-  width: 30px;
+.NavButton>img {
+  width : 30px;
   height: 30px;
 }
 
 .side-bar {
   background-color: var(--white);
-  display: flex;
-  flex-direction: column;
-  width: 240px;
-  height: 191px;
-  position: absolute;
-  top: 60px;
-  right: -100%;
-  transition: right 500ms ease-in-out 25ms;
-  padding-left: 17px;
+  display         : flex;
+  flex-direction  : column;
+  width           : 240px;
+  height          : 191px;
+  position        : absolute;
+  top             : 59px;
+  right           : -100%;
+  transition      : right 500ms ease-in-out 25ms;
+  padding-left    : 17px;
 }
 
-.side-bar > span {
-  text-align: left;
-  color: rgba(9, 10, 10, 0.5);
-  font-weight: 400;
-  font-size: 14px;
-  margin-bottom: 11px;
-  margin-top: 23px;
+.side-bar>span {
+  text-align    : left;
+  color         : rgba(9, 10, 10, 0.5);
+  font-weight   : 400;
+  font-size     : 14px;
+  margin-bottom : 11px;
+  margin-top    : 23px;
   /* line-height: 140%; */
 }
 
-.side-bar > a {
-  width: 18px;
-  height: 18px;
+.side-bar>a {
+  width        : 18px;
+  height       : 18px;
   margin-bottom: 16px;
 }
 
 .side-bar img {
-  width: 18px;
+  width : 18px;
   height: 18px;
 }
 
 .active {
-  right: 0 !important;
+  right     : 0 !important;
   transition: right 500ms ease-in-out 25ms;
 }

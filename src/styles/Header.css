@@ -26,16 +26,16 @@
 }
 
 .search-input {
-  width: 100%;
-  border: none;
-  background-color: var(--gray);
-  height : 45px;
-  border-radius: 15px;
-  padding-left: 17px;
-  background-image: url(../images/search.svg);
-  background-repeat: no-repeat;
+  width              : 100%;
+  border             : none;
+  background-color   : var(--gray);
+  height             : 45px;
+  border-radius      : 15px;
+  padding-left       : 17px;
+  background-image   : url(../images/search.svg);
+  background-repeat  : no-repeat;
   background-position: 95% 50%;
-  padding-right: 17px;
+  padding-right      : 17px;
 }
 
 .search-input:focus {
@@ -79,20 +79,24 @@
 
   .wrapper__header {
     padding: 15px 20px;
-    display: flex;
+    width  : 100vw;
   }
 
+
+
+}
+
+@media only screen and (max-width: 450px) {
   .search-input {
-    width: 70vw;
+    width: 4vw;
   }
 
   .search-input:focus {
-    position: absolute;
-    width: 95vw;
-    transition: width 0.8s ease;
-    margin: auto;
-    left: 0;
-    right: 0;
+    position  : absolute;
+    width     : 95vw;
+    transition: width 0.5s ease;
+    margin    : auto;
+    left      : 0;
+    right     : 0;
   }
-
 }

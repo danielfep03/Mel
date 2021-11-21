@@ -15,10 +15,12 @@ function Content() {
       <div className="created__by">
         <span>Creado por</span>
         <a className="button" href="https://twitter.com/MelVonPato" target="_blank" rel="noopener noreferrer">
-          @melvonpato
+          <span>@melvonpato</span>
         </a>
       </div>
-      <Categories filter={categorySelector}/>
+      <div className="wrapper-categories">
+        <Categories filter={categorySelector}/>
+      </div>
       <Threads currentCategory={state}/>
     </div>
   )

@@ -1,15 +1,23 @@
 .category {
   background-color: var(--black);
-  color: #FFF;
-  padding: 6px 25px 6px 15px;
-  border-radius: 12px;
-  box-sizing: content-box;
-  display: inline-block;
-  text-align: center;
-  border: none;
-  cursor: pointer;
+  color           : #FFF;
+  padding         : 6px 20px;
+  border-radius   : 12px;
+  box-sizing      : border-box;
+  display         : inline-block;
+  text-align      : center;
+  border          : none;
+  cursor          : pointer;
+  width           : 185px;
 }
 
 .selected {
   background-color: var(--blue) !important;
+}
+
+@media only screen and (max-width: 450px) {
+  .category {
+    height     : 29px;
+    white-space: nowrap;
+  }
 }

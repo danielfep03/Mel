@@ -1,41 +1,47 @@
 .thread {
   background-color: var(--white);
-  border-radius: 30px;
-  overflow: hidden;
-  padding: 20px 25px;
-  border: 1px solid #F0F0F0;
-  text-decoration: none;
+  border-radius   : 30px;
+  overflow        : hidden;
+  padding         : 20px 25px;
+  border          : 1px solid #F0F0F0;
+  text-decoration : none;
+  box-sizing      : border-box;
+  width           : calc(100% - 2em);
+  /* width        : 501px; */
+  /* height       : 229px; */
+  margin          : auto;
+  margin-top      : 0;
 }
 
 .thread:hover {
   background-color: var(--hover);
-  transition: background-color 0.5s ease;
+  transition      : background-color 0.5s ease;
 }
 
 .thread__wrapper {
-  display: flex;
-  flex-direction: column;
+  display        : flex;
+  flex-direction : column;
   justify-content: space-between;
-  height: 100%;
+  height         : 100%;
 }
 
 .thread__header {
-  display: flex;
+  display        : flex;
   justify-content: space-between;
-  margin-bottom: 15px;
+  margin-bottom  : 15px;
 }
 
-.thread__header > div {
+.thread__header>div {
   display: flex;
 }
 
 .thread__profile {
-  display: flex;
-  flex-direction: column;
+  display        : flex;
+  flex-direction : column;
   justify-content: flex-start;
-  align-items: flex-start;
-  margin-left: 10px;
-  color: var(--black) !important;
+  align-items    : flex-start;
+  margin-left    : 10px;
+  color          : var(--black) !important;
 }
 
 .thread__profile span:first-of-type {
@@ -47,19 +53,22 @@
   color: var(--gray-text);
 }
 
-.thread__header > img {
-  width: 57px;
+.thread__header>img {
+  width : 57px;
   height: 32px;
 }
 
 .thread__text {
-  text-align: left;
-  font-weight: 600;
+  text-align   : left;
+  font-weight  : 600;
   margin-bottom: 15px;
-  color: var(--black) !important;
+  color        : var(--black) !important;
+  white-space  : pre-line;
+  text-overflow: ellipsis;
+  overflow     : hidden;
 }
 
 .created_at {
   text-align: justify;
-  color: var(--gray-text);
+  color     : var(--gray-text);
 }
