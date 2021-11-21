@@ -37,6 +37,7 @@
   flex-direction : column;
   justify-content: flex-start;
   align-items    : flex-start;
+  margin-top     : 5px;
   margin-left    : 10px;
   color          : var(--black) !important;
 }
@@ -50,9 +51,10 @@
   color: var(--gray-text);
 }
 
-.thread__header>img {
-  width : 57px;
-  height: 32px;
+.logo-thread {
+  width        : 45px;
+  height       : 45px;
+  border-radius: 50%;
 }
 
 .thread__text {

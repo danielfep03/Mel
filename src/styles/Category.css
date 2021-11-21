@@ -4,7 +4,7 @@
   padding-top     : 6px;
   padding-left    : 20px;
   padding-right   : 20px;
-  padding-bottom  : 6px;
+  padding-bottom  : 8px;
   border-radius   : 12px;
   box-sizing      : border-box;
   display         : inline-block;
@@ -19,7 +19,8 @@
 
 @media only screen and (max-width: 450px) {
   .category {
-    height     : 29px;
+    height     : 34px;
     white-space: nowrap;
+    font-size: 15px;
   }
 }

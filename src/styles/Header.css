@@ -11,6 +11,7 @@
 .logo {
   width : 45px;
   height: 45px;
+  border-radius: 10px;
 }
 
 .wrapper__header {
