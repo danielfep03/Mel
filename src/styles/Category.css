@@ -1,7 +1,10 @@
 .category {
   background-color: var(--black);
   color           : #FFF;
-  padding         : 6px 20px;
+  padding-top     : 6px;
+  padding-left    : 20px;
+  padding-right   : 20px;
+  padding-bottom  : 6px;
   border-radius   : 12px;
   box-sizing      : border-box;
   display         : inline-block;
