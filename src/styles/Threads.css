@@ -1,8 +1,14 @@
 .Threads {
-  margin-top           : 73px;
+  margin               : 64px 20px 0 20px;
   width                : 100%;
   display              : grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 503px));
   gap                  : 40px;
   justify-content      : center;
+}
+
+@media only screen and (max-width: 780px) {
+  .Threads{
+    margin-top: 36px;
+  }
 }

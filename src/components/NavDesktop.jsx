@@ -3,7 +3,7 @@ import React from 'react'
 import dribbble from '../images/dribbble.svg'
 import instagram from '../images/instagram.svg'
 import medium from '../images/medium.svg'
-import twitter from '../images/twitter.svg'
+import twitter from '../images/twitter-outline.svg'
 
 function NavDesktop() {
   return (

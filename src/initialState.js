@@ -225,7 +225,13 @@ const data = {
     },
 
   ],
-  ingles: [],
+  ingles: [
+    {
+      'created_at': '2021-08-26T17:29:14.000Z',
+      'id': '1430945444511850506',
+      'text': 'Deberías estar aprendiendo inglés AYER.\nNo solo porque si trabajas en tech es uno de los skills más importantes, sino porque es la forma más segura y directa de conseguir un trabajo EN DÓLARES.\nA continuación, mi recomendación  (y descuento 😏) para aprender con los mejores 👇'
+    }
+  ],
   trabajoIt: [
     {
       'created_at': '2021-11-08T21:02:42.000Z',

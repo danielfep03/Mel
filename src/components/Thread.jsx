@@ -1,10 +1,11 @@
 import React from 'react'
 
 import logo from '../images/logo.svg'
-import twitter from '../images/twitter-color.png'
+import twitter from '../images/twitter.svg'
 import '../styles/Thread.css'
 
 function Thread({content}) {
+  const newDate = new Date(content.created_at)
   return (
     <a className="thread" href={`https://twitter.com/MelVonPato/status/${content.id}`} target="_blank" rel="noreferrer">
       <div className="thread__wrapper">
@@ -22,7 +23,7 @@ function Thread({content}) {
           {content.text}
         </p>
         <div className="created_at">
-          {content.created_at}
+          {newDate.toDateString()} • Twitter Web App
         </div>
       </div>
     </a>

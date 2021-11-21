@@ -23,7 +23,9 @@ function Header() {
   return (
     <div className="Header">
       <div className="wrapper__header">
-        <img src={logo} alt="" className="logo" />
+        <a href="#">
+          <img src={logo} alt="" className="logo" />
+        </a>
         <input type="text" placeholder="Buscar" onChange={handleSearch} className="search-input" />
         {width > mobileSize ? <NavDesktop /> : <NavMobile />}
       </div>
