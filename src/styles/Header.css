@@ -26,7 +26,7 @@
 }
 
 .search-input {
-  width              : 100%;
+  width              : 388px;
   border             : none;
   background-color   : var(--gray);
   height             : 45px;
@@ -36,6 +36,7 @@
   background-repeat  : no-repeat;
   background-position: 95% 50%;
   padding-right      : 17px;
+  margin-left        : auto;
 }
 
 .search-input:focus {
@@ -69,7 +70,8 @@
 
 @media only screen and (max-width: 780px) {
   .Header {
-    height: 60px !important;
+    height     : 60px !important;
+    align-items: center;
   }
 
   .logo {
@@ -82,13 +84,15 @@
     width  : 100vw;
   }
 
-
+  .search-input {
+    margin: auto;
+  }
 
 }
 
 @media only screen and (max-width: 450px) {
   .search-input {
-    width: 4vw;
+    width: 50vw;
   }
 
   .search-input:focus {
