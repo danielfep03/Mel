@@ -84,7 +84,7 @@ const data = {
       'created_at': '2020-12-07T13:01:04.000Z',
       'id': '1335932340103766016',
       'text': 'QUÉ ES UX/UI, FRONT-END y BACK-END Y DÓNDE ESTUDIARLO? Bueno tengo que presentar un prototipo en unas horas asique sale hilo rápido, como siempre, no tengo la verdad absoluta y cualquier comentario es más que bienvenido ✨(abro hilo)'
-    }
+    },
   ],
   programacion: [
     {
@@ -234,6 +234,11 @@ const data = {
   ],
   trabajoIt: [
     {
+      'created_at': '2021-11-16T15:40:36.000Z',
+      'id': '1460633910979842056',
+      'text': 'Una startup es una muuuuy buena opción para conseguir tus primeras experiencias laborales en UX, pero casi siempre te piden "saber un poquito de todo". \n\nVeamos qué tenés que saber para convertirte en un UX/UI Designer unicornio (y no morir en el intento) 😏👇+'
+    },
+    {
       'created_at': '2021-11-08T21:02:42.000Z',
       'id': '1457815867601862661',
       'text': 'Lo voy a repetir hasta el hartazgo: El portfolio es el 50% de tu CV (si no es que más).\n\nAsí que 1, 2, 3: te dejo una checklist con todo lo que tiene que tener tu portfolio. Va con plantilla en Drive para que te guardes! 🙌 +'
@@ -311,6 +316,16 @@ const data = {
   ],
   herramientas: [
     {
+      'created_at': '2021-11-25T13:17:02.000Z',
+      'id': '1463859272262037508',
+      'text': 'Alguien dijo +100 LIBROS GRATIS PARA DESCARGAR? \nhttps://t.co/iAyhD8pOB2 📚\n\nLos chicos de UX Links categorizaron y organizaron más de 100 libros de UX/UI (legales) 🌈'
+    },
+    {
+      'created_at': '2021-11-24T16:04:45.000Z',
+      'id': '1463539093653147649',
+      'text': 'Alguna vez pensaste las horas de trabajo que te ahorra el atajo ctrl+c y ctrl+v? \n\nAbro hilo con tips y atajos para usar Figma like a pro😎👉 para que no trabajes de más, para simplificarte la vida y para que seas un UX/UI designer más productivo 🧵+'
+    },
+    {
       'created_at': '2021-08-13T13:20:00.000Z',
       'id': '1426171681110773760',
       'text': 'Conseguí aquí plantillas HTML GRATIS para agregar a tus proyectos 🤖\n\n📌 https://t.co/2wBRRjnDUd \n📌 https://t.co/dNMTZZaRgU \n📌 https://t.co/8xK6i4j36Z \n📌 https://t.co/zRYOK8aJsD\n📌 https://t.co/axCWJhqfjM \n📌 https://t.co/cw7FVQfEs5'
@@ -384,7 +399,7 @@ const data = {
       'created_at': '2021-04-01T13:00:00.000Z',
       'id': '1377606675549540352',
       'text': 'Recursos e información para aprender desarrollo (y diseño!) web 💻\n📌https://t.co/fbzNRbFvKS'
-    }
+    },
 
   ],
   roadmap: [
