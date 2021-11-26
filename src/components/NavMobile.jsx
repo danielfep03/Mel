@@ -4,7 +4,7 @@ import Frame from '../images/Frame.svg'
 import dribbble from '../images/dribbble.svg'
 import instagram from '../images/instagram.svg'
 import medium from '../images/medium.svg'
-import twitter from '../images/twitter-outline.svg'
+import twitter from '../images/twitter.svg'
 import '../styles/NavMobile.css'
 
 function NavMobile() {

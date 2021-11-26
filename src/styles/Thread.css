@@ -65,6 +65,8 @@
   white-space  : pre-line;
   text-overflow: ellipsis;
   overflow     : hidden;
+  font-presentation: text;
+  text-transform-variant: emoji;
 }
 
 .created_at {

@@ -4,7 +4,7 @@ import AppContext from '../AppContext'
 import NavDesktop from './NavDesktop.jsx'
 import NavMobile from './NavMobile.jsx'
 import '../styles/Header.css'
-import logo from '../images/logo.svg'
+import logo from '../images/logo.jpg'
 
 function Header() {
   const {handleSearch} = useContext(AppContext)

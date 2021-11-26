@@ -1,7 +1,7 @@
 import React from 'react'
 
-import logo from '../images/logo.svg'
-import twitter from '../images/twitter.svg'
+import logo from '../images/logo.jpg'
+import twitter from '../images/twitter-color.svg'
 import '../styles/Thread.css'
 
 function Thread({content}) {
@@ -11,7 +11,7 @@ function Thread({content}) {
       <div className="thread__wrapper">
         <div className="thread__header">
           <div>
-            <img src={logo} alt="logo" />
+            <img src={logo} alt="logo" className="logo-thread"/>
             <div className="thread__profile">
               <span>Mel</span>
               <span>@MelVonPato</span>
