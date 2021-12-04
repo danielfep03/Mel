@@ -1,6 +1,11 @@
 const data = {
   diseño: [
     {
+      'created_at': '2021-12-01T14:45:53.000Z',
+      'id': '1382344361610973184',
+      'text': '✏️ Hablemos de cómo obtener inspiración para nuestros proyectos digitales 👩‍💻\n\nEl moodboard es una técnica creativa visual que ayuda a comunicar ideas por medio de imágenes, texturas, frases, fotografías, etc. + https://t.co/kF9pB9cwsQ'
+    },
+    {
       'created_at': '2021-11-02T23:54:14.000Z',
       'id': '1455684708226977792',
       'text': '10 principios de Accesibilidad que todo Desarrollador/Diseñador Web debería conocer y aplicar a sus proyectos + Guía gratis 🤓\n\n¡Diseño para todas y todos! 👇'
@@ -233,6 +238,11 @@ const data = {
     }
   ],
   trabajoIt: [
+    {
+      'created_at': '2021-12-01T18:17:03.000Z',
+      'id': '1466109100299890691',
+      'text': 'Después de muchísimo esfuerzo y perseverancia conseguiste tu primer trabajo en IT. Y... ahora qué? Qué hay después de un junior?\n\nHablemos sobre cómo construir un plan de carrera profesional en tecnología. 👇🧵 +'
+    },
     {
       'created_at': '2021-11-16T15:40:36.000Z',
       'id': '1460633910979842056',
