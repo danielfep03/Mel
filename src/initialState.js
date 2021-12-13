@@ -1,6 +1,11 @@
 const data = {
   diseño: [
     {
+      'created_at': '2021-12-07T14:11:42.000Z',
+      'id': '1468221686109585410',
+      'text': 'Cuándo se usan los prototipos en baja, media y alta fidelidad? De qué hablamos cuando hablamos de "fidelidad"? \n\nHoy en ✨ conceptos básicos de UX ✨ hablemos de todo lo que tenés que saber sobre prototipado para que tu proceso de diseño sea im-pe-ca-ble. 🧵👇'
+    },
+    {
       'created_at': '2021-12-01T14:45:53.000Z',
       'id': '1382344361610973184',
       'text': '✏️ Hablemos de cómo obtener inspiración para nuestros proyectos digitales 👩‍💻\n\nEl moodboard es una técnica creativa visual que ayuda a comunicar ideas por medio de imágenes, texturas, frases, fotografías, etc. + https://t.co/kF9pB9cwsQ'
