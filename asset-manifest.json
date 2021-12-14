@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mel/static/css/main.40a7a41b.chunk.css",
+    "main.css": "/Mel/static/css/main.dfd9273b.chunk.css",
     "main.js": "/Mel/static/js/main.adf7bc6f.chunk.js",
     "main.js.map": "/Mel/static/js/main.adf7bc6f.chunk.js.map",
     "runtime-main.js": "/Mel/static/js/runtime-main.1c0f7d97.js",
@@ -8,7 +8,7 @@
     "static/js/2.b26d1fdf.chunk.js": "/Mel/static/js/2.b26d1fdf.chunk.js",
     "static/js/2.b26d1fdf.chunk.js.map": "/Mel/static/js/2.b26d1fdf.chunk.js.map",
     "index.html": "/Mel/index.html",
-    "static/css/main.40a7a41b.chunk.css.map": "/Mel/static/css/main.40a7a41b.chunk.css.map",
+    "static/css/main.dfd9273b.chunk.css.map": "/Mel/static/css/main.dfd9273b.chunk.css.map",
     "static/js/2.b26d1fdf.chunk.js.LICENSE.txt": "/Mel/static/js/2.b26d1fdf.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Mel/static/media/WorkSans-Regular.1cafe0d5.ttf",
     "static/media/Frame.fb9adb8a.svg": "/Mel/static/media/Frame.fb9adb8a.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.1c0f7d97.js",
     "static/js/2.b26d1fdf.chunk.js",
-    "static/css/main.40a7a41b.chunk.css",
+    "static/css/main.dfd9273b.chunk.css",
     "static/js/main.adf7bc6f.chunk.js"
   ]
 }
