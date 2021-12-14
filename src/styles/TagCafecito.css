@@ -1,0 +1,29 @@
+.TagCafecito {
+  background-color         : #f0e9e1;
+  width                    : 150px;
+  height                   : 40px;
+  position                 : fixed;
+  margin                   : auto;
+  right                    : 0;
+  bottom                   : 30%;
+  border-top-left-radius   : 30px;
+  border-bottom-left-radius: 30px;
+  cursor                   : pointer;
+  display                  : flex;
+  justify-content          : center;
+  align-items              : center;
+  background-size          : 30%;
+}
+
+.TagCafecito>a {
+  text-decoration: none;
+  color          : #8fa2cc;
+  /* font-weight : bold; */
+}
+
+/* ================ RESPONSIVE mobile =============== */
+@media only screen and (max-width: 780px) {
+  .TagCafecito {
+    bottom: 0;
+  }
+}
