@@ -21,7 +21,7 @@ function Categories({filter}) {
  
   const isSelected = (item) => {
     // item.target.classList.toggle('selected')
-    const name = item.target.outerText
+    const name = item.target.innerText
     const newState = selected.map(category => {
       if(category.selected) {
         category.selected = !category.selected
