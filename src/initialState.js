@@ -244,6 +244,16 @@ const data = {
   ],
   trabajoIt: [
     {
+      'created_at': '2022-01-04T15:43:24.000Z',
+      'id': '1478391619858665474',
+      'text': 'Hoy quiero hablar sobre las entrevistas laborales, pero no desde el enfoque de siempre, que es el pasivo: qué decir, cómo responder, cómo respirar 🙄. Quiero que cambiemos el mindset a uno mucho más activo y proactivo.\n\nDicho esto, abro hilo sobre cómo afrontar una entrevista.🧵'
+    },
+    {
+      'created_at': '2021-12-16T15:58:21.000Z',
+      'id': '1471510015227809798',
+      'text': 'El teletrabajo llegó para quedarse. En estos (casi) dos años trabajé en remoto para tres empresas y varios proyectos, así que aprendí bastante sobre trabajar desde casa. Hoy quiero compartirlo con ustedes. \n\nCómo trabajar remoto y no morir en el intento: el hilo definitivo. 😏🧵'
+    },
+    {
       'created_at': '2021-12-01T18:17:03.000Z',
       'id': '1466109100299890691',
       'text': 'Después de muchísimo esfuerzo y perseverancia conseguiste tu primer trabajo en IT. Y... ahora qué? Qué hay después de un junior?\n\nHablemos sobre cómo construir un plan de carrera profesional en tecnología. 👇🧵 +'

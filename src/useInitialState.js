@@ -54,8 +54,6 @@ function useInitialState() {
   const handleSearch = (e) => {
     const value = e.target.value
     const dataList = dataArray()
-    console.log(value)
-    console.log(dataList)
     
     const newState = dataList.filter(item => item.text.toLowerCase().includes(value.toLowerCase()))
    
