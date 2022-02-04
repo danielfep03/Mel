@@ -429,6 +429,11 @@ const data = {
   ],
   roadmap: [
     {
+      'created_at': '2022-02-02T17:51:52.000Z',
+      'id': '1488933198042124295',
+      'text': '¿Querés poner en marcha tu carrera y empezar el camino hacia el éxito profesional? \n\nHablemos sobre cómo crecer como profesional en tecnología en 2022 🧑‍💻🧵'
+    },
+    {
       'created_at': '2021-10-29T14:53:46.000Z',
       'id': '1454099142926548995',
       'text': 'Hoja de ruta: Aprendé ReactJs 📚🤓\n\n1️⃣ Fundamentos de JavaScript:\n👉 Variables\n👉 Hoisting\n👉 Funciones\n👉 Métodos array\n👉 Objetos\n+'
@@ -455,6 +460,16 @@ const data = {
     },
   ],
   marcaPersonal: [
+    {
+      'created_at': '2022-01-24T15:03:57.000Z',
+      'id': '1485629453296443400',
+      'text': 'Siempre me pongo nerviosa cuando hago de speaker, pero la primera vez que hablé en público casi se me sale el corazón. Todo salió bien gracias a que supe organizarme y planificar todo, así que quiero compartir mi proceso con ustedes. \n\nCómo preparar disertaciones exitosas, YA🏃🧵'
+    },
+    {
+      'created_at': '2022-01-12T15:18:50.000Z',
+      'id': '1481284542140928010',
+      'text': 'Hoy quiero compartir con ustedes tips y aprendizajes REALES para hacer networking.\n\nAplicables para damas, caballeros, introvertidos y extrovertidos. Todos pueden conectar. Arranquemos 👇🧵'
+    },
     {
       'created_at': '2021-05-03T21:30:09.000Z',
       'id': '1389331469672329222',
