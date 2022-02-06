@@ -14,7 +14,7 @@ function Thread({content}) {
             <img src={logo} alt="logo" className="logo-thread"/>
             <div className="thread__profile">
               <span>Mel</span>
-              <span>@Melbaudon</span>
+              <span>@melbaudon</span>
             </div>
           </div>
           <img src={twitter} alt="" />

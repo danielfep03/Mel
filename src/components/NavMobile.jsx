@@ -28,7 +28,7 @@ function NavMobile() {
         <a href="https://www.instagram.com/melbaudon/" target="_blank" rel="noopener noreferrer">
           <img src={instagram} alt="" />
         </a>
-        <a href="https://twitter.com/MelVonPato" target="_blank" rel="noopener noreferrer">
+        <a href="https://twitter.com/melbaudon" target="_blank" rel="noopener noreferrer">
           <img src={twitter} alt="instagram" />
         </a>
       </div>
