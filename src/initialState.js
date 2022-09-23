@@ -1,6 +1,21 @@
 const data = {
   diseño: [
     {
+      'created_at': '2022-08-30T13:52:23.000Z',
+      'id': '1564611995818680332',
+      'text': 'Si querés aprender Diseño UX/UI, pero no sabes cómo, esta es tu oportunidad.\n\nHoy te comparto CURSOS PARA APRENDER DISEÑO UX/UI DE FORMA GRATUITA 🔥'
+    },
+    {
+      'created_at': '2022-02-21T12:26:37.000Z',
+      'id': '1495736715255984129',
+      'text': 'Buen comienzo de semana ☀️ \n\nHoy les traigo un nuevo recurso gratuito para el toolkit del desarrollador y diseñador: GUÍA DE ACCESIBILIDAD WEB 🎁 https://t.co/S53KEr97Oo'
+    },
+    {
+      'created_at': '2022-06-13T22:16:43.000Z',
+      'id': '1536472659881512961',
+      'text': 'Así como a hacer se aprende haciendo, UX se aprende practicando. 💛\n\nHoy vengo con un tremendo hilo sobre aprender y practicar UX para optimizar tu carrera en diseño de experiencias. Viene con bonus de recursos! 👀 \n\nEmpecemos!🧵 👇'
+    },
+    {
       'created_at': '2021-12-07T14:11:42.000Z',
       'id': '1468221686109585410',
       'text': 'Cuándo se usan los prototipos en baja, media y alta fidelidad? De qué hablamos cuando hablamos de "fidelidad"? \n\nHoy en ✨ conceptos básicos de UX ✨ hablemos de todo lo que tenés que saber sobre prototipado para que tu proceso de diseño sea im-pe-ca-ble. 🧵👇'
@@ -202,6 +217,11 @@ const data = {
   ],
   productividad: [
     {
+      'created_at': '2022-05-04T13:36:49.000Z',
+      'id': '1521846310902632449',
+      'text': 'Volvieron los hilos! 🤩\n\nMe leen personas de edades y situaciones diferentes, pero la pregunta \'cómo hago para estudiar y trabajar a la vez\' es una de las que más recibo. \n\n🙌 Hoy les traigo un hilo sobre cómo estudiar y trabajar sin morir en el intento + tools de organización🧵'
+    },
+    {
       'created_at': '2021-10-15T18:58:14.000Z',
       'id': '1449087235853275145',
       'text': 'Si estás todo el día haciendo cosas ⌛ pero igual no llegas a terminar todas tus tareas, este hilo es para vos.\n\nHablemos sobre qué es (y qué no es) la productividad. Al final les dejo tips y herramientas para optimizar su tiempo y aprovecharlo al máximo 🙌. \n\nAcompáñenme! 🧵👇'
@@ -243,6 +263,16 @@ const data = {
     }
   ],
   trabajoIt: [
+    {
+      'created_at': '2021-08-15T17:44:42.000Z',
+      'id': '1426963073169035268',
+      'text': 'Ingresa en el mercado laboral IT con esta info 🧵\n\n✅  Armado de CV\n✅  Cómo optimizar tu perfil de Linkedin\n✅  Diseño de portfolio profesional \n✅  Preparación para entrevistas laborales \n✅  El ABC del Freelancer\n✅  Marca personal\n✅  Cómo armar un presupuesto \n\n¡Y más! 👇'
+    },
+    {
+      'created_at': '2022-06-28T19:08:47.000Z',
+      'id': '1541861186173534210',
+      'text': '¿Estás buscando trabajo en IT o ya estás trabajando pero te diste cuenta de que necesitás mejorar tu inglés? Entonces este hilo es para vos 🧵👇'
+    },
     {
       'created_at': '2022-01-04T15:43:24.000Z',
       'id': '1478391619858665474',
@@ -340,6 +370,26 @@ const data = {
     }
   ],
   herramientas: [
+    {
+      'created_at': '2022-07-13T14:35:52.000Z',
+      'id': '1547228319350931457',
+      'text': 'Si te dedicas al Diseño de Productos Digitales, este hilo es para vos 🧵\n\nTe dejo una lista de recursos y herramientas que van a  hacerte la vida más fácil 🧑‍💻👇'
+    },
+    {
+      'created_at': '2022-07-19T14:20:25.000Z',
+      'id': '1549398761583120385',
+      'text': 'Hola UXer 👋\nHoy te traigo esta website donde podrás aprender Diseño de Interfaces jugando 🎮\n¡Presta atención a los detalles y elegí cuál es el mejor diseño! 👇\nhttps://t.co/LHF5P3BZJs'
+    },
+    {
+      'created_at': '2022-07-25T20:42:33.000Z',
+      'id': '1551669252679208962',
+      'text': '¡Mejora tu productividad y organiza tu vida con Notion! 🗃️ \n\n(Y agendá la fecha de mi primer Stream en @Twitch)  👀'
+    },
+    {
+      'created_at': '2022-02-07T19:03:40.000Z',
+      'id': '1490763207174201344',
+      'text': 'Me pasé toda la semana pasada preparándoles este regalito. 🎁\nLes presento a Universo UX/UI 🌈, una guía súper completa con +100 recursos en español con TODO lo que un Diseñador UX necesita: artículos, tutoriales, cursos, libros, comunidades, podcast, herramientas ¡y mucho más! https://t.co/z0eyv2oPeL'
+    },
     {
       'created_at': '2021-11-25T13:17:02.000Z',
       'id': '1463859272262037508',
@@ -460,6 +510,11 @@ const data = {
     },
   ],
   marcaPersonal: [
+    {
+      'created_at': '2022-05-24T12:18:04.000Z',
+      'id': '1529074247502598145',
+      'text': 'Todos podemos hacer networking, pero no todos lo hacemos bien. \n\nSi estás empezando a conectar con otros profesionales pero no está funcionando como esperabas, este hilo es para vos.\n\n 👉 Charlemos sobre buenas (y sobre todo, inteligentes) prácticas para hacer networking. 🧵'
+    },
     {
       'created_at': '2022-01-24T15:03:57.000Z',
       'id': '1485629453296443400',
